@@ -1,20 +1,23 @@
 from threading import Thread, Lock
-lock = Lock()
+
 a = 0
 
 
-def function(arg):
+def function(lock, arg):
     global a
     for _ in range(arg):
         lock.acquire()
-        a += 1
-        lock.release()
+        try:
+            a += 1
+        finally:
+            lock.release()
 
 
 def main():
+    lock = Lock()
     threads = []
     for _ in range(5):
-        thread = Thread(target=function, args=(1000000,))
+        thread = Thread(target=function, args=(lock, 1000000,))
         thread.start()
         threads.append(thread)
 
@@ -23,4 +26,5 @@ def main():
     print("----------------------", a)  # ???
 
 
-main()
+if __name__ == '__main__':
+    main()

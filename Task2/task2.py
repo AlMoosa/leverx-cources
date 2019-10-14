@@ -1,6 +1,10 @@
+from functools import total_ordering
+
+
+@total_ordering
 class Version:
     def __init__(self, version):
-        self.version = version.split('.')
+        self.version = version
 
     def __lt__(self, other):
         return self.version < other.version

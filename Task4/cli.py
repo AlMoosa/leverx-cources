@@ -1,10 +1,10 @@
 import argparse
 
 
-def parser() -> str:
+def parser():
     """
     This function parses data from comand line.
-    Returns the string expression.
+    Returns the arguments.
     """
     parser = argparse.ArgumentParser(
         prog='task4',

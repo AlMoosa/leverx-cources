@@ -108,10 +108,10 @@ class DatabaseConnector:
         return self.fetchall()
 
 
-def add_data_to_db(students_path, rooms_path,
-                   output_format, db_host,
-                   db_user, db_password,
-                   db_name):
+def adding_data_to_db(students_path, rooms_path,
+                      output_format, db_host,
+                      db_user, db_password,
+                      db_name):
 
     with DatabaseConnector(db_host, db_user, db_password, db_name) as db:
         rooms = JsonReader(rooms_path).read()
@@ -131,9 +131,9 @@ def add_data_to_db(students_path, rooms_path,
             )
 
 
-def queries_to_db(db_host,
-                  db_user, db_password,
-                  db_name):
+def executing_queries(db_host,
+                      db_user, db_password,
+                      db_name):
     result = []
     queries = [
         """SELECT Rooms.name AS ROOM_NAME, COUNT(room) AS NUM_OF_STUDENTS FROM

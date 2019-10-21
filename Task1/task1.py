@@ -2,6 +2,7 @@ import json
 from dicttoxml import dicttoxml
 import xml.dom.minidom
 from xml.dom.minidom import parseString
+from cli import parser
 
 
 class SaveFile():
@@ -92,7 +93,9 @@ def main(students_path, rooms_path, output_format):
 
 
 if __name__ == "__main__":
-    students_path = "students.json"
-    rooms_path = "rooms.json"
-    output_format = "xml"
+    args = parser()
+
+    students_path = args.path1
+    rooms_path = args.path2
+    output_format = args.format
     main(students_path, rooms_path, output_format)

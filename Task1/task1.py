@@ -5,7 +5,7 @@ from xml.dom.minidom import parseString
 from cli import parser
 
 
-class SaveFile():
+class FileSaver():
     def __init__(self, result):
         self.result = result
 
@@ -13,7 +13,7 @@ class SaveFile():
         raise NotImplementedError
 
 
-class SaveToJson(SaveFile):
+class JsonSaver(FileSaver):
     def __init__(self, result):
         super().__init__(result)
 
@@ -22,7 +22,7 @@ class SaveToJson(SaveFile):
             json.dump(self.result, write_file, sort_keys=True, indent=4)
 
 
-class SaveToXml(SaveFile):
+class XmlSaver(FileSaver):
     def __init__(self, result):
         super().__init__(result)
 
@@ -31,7 +31,7 @@ class SaveToXml(SaveFile):
             self.result.writexml(xml_file, indent='\n', addindent='\t')
 
 
-class ReadFile():
+class FileReader():
     def __init__(self, path):
         self.path = path
 
@@ -39,7 +39,7 @@ class ReadFile():
         raise NotImplementedError
 
 
-class ReadJson(ReadFile):
+class JsonReader(FileReader):
     def __init__(self, path):
         super().__init__(path)
 
@@ -52,7 +52,7 @@ class ReadJson(ReadFile):
             return "File {} not found!".format(self.path)
 
 
-class AddData():
+class Solution():
     def __init__(self, students, rooms):
         self.students = students
         self.rooms = rooms
@@ -78,16 +78,16 @@ class AddData():
 
 
 def main(students_path, rooms_path, output_format):
-    students = ReadJson(students_path).read()
-    rooms = ReadJson(rooms_path).read()
-    result = AddData(students, rooms).add_students_to_rooms()
+    students = JsonReader(students_path).read()
+    rooms = JsonReader(rooms_path).read()
+    result = Solution(students, rooms).add_students_to_rooms()
 
     if output_format == 'json':
-        SaveToJson(result).save()
+        JsonSaver(result).save()
     elif output_format == 'xml':
         xml = dicttoxml(result).decode('utf-8')
         dom = parseString(xml)
-        SaveToXml(dom).save()
+        XmlSaver(dom).save()
     else:
         print('Check output format')
 

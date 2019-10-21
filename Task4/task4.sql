@@ -16,4 +16,4 @@ CREATE TABLE Students (
 SELECT Rooms.name AS ROOM_NAME, COUNT(room) AS NUM_OF_STUDENTS FROM Students INNER JOIN Rooms ON Rooms.id = Students.room GROUP BY room;
 SELECT Rooms.name AS ROOM, AVG((TO_DAYS(NOW())-TO_DAYS(birthday))/365) AS AVG_AGE FROM Students INNER JOIN Rooms ON Rooms.id = Students.room GROUP BY Rooms.name ORDER BY AVG_AGE LIMIT 5;
 SELECT Rooms.name AS ROOM, ((MAX((TO_DAYS(NOW())-TO_DAYS(birthday)))- MIN((TO_DAYS(NOW())-TO_DAYS(birthday))))/365) AS DIFF FROM Students INNER JOIN Rooms ON Rooms.id = Students.room GROUP BY Rooms.name ORDER BY DIFF DESC LIMIT 5;
-SELECT DISTINCT Rooms.name AS 'Room name' FROM Rooms INNER JOIN Students ON Students.room = Rooms.id WHERE sex = 'M' AND Rooms.name IN (SELECT Rooms.name AS 'Room name' FROM Rooms INNER JOIN Students ON Students.room = Rooms.id WHERE sex = 'F');
+SELECT Rooms.name FROM Rooms INNER JOIN Students ON Students.room = Rooms.id GROUP BY Rooms.id HAVING COUNT(DISTINCT Students.sex)>=2;

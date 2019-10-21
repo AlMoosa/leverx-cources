@@ -8,7 +8,7 @@ import decimal
 from cli import parser
 
 
-class ReadFile():
+class FileReader():
     def __init__(self, path):
         self.path = path
 
@@ -16,7 +16,7 @@ class ReadFile():
         raise NotImplementedError
 
 
-class ReadJson(ReadFile):
+class JsonReader(FileReader):
     def __init__(self, path):
         super().__init__(path)
 
@@ -29,7 +29,7 @@ class ReadJson(ReadFile):
             return "File {} not found!".format(self.path)
 
 
-class SaveFile():
+class FileSaver():
     def __init__(self, result, filename):
         self.result = result
         self.filename = filename
@@ -38,7 +38,7 @@ class SaveFile():
         raise NotImplementedError
 
 
-class SaveToJson(SaveFile):
+class JsonSaver(FileSaver):
     def __init__(self, result, filename):
         super().__init__(result, filename)
 
@@ -54,44 +54,58 @@ class SaveToJson(SaveFile):
                       indent=4, default=self.myconverter)
 
 
-class SaveToXml(SaveFile):
+class XmlSaver(FileSaver):
     def __init__(self, result, filename):
         super().__init__(result, filename)
 
     def save(self):
+        xml = dicttoxml(self.result).decode('utf-8')
+        dom = parseString(xml)
         with open(self.filename, "w") as xml_file:
-            self.result.writexml(xml_file, indent='\n', addindent='\t')
+            dom.writexml(xml_file, indent='\n', addindent='\t')
 
 
-class Database:
-
+class DatabaseConnector:
     def __init__(self, host, user, password, db):
-        self.host = host
-        self.user = user
-        self.password = password
-        self.db = db
+        self._conn = pymysql.connect(
+            host,
+            user,
+            password,
+            db,
+            cursorclass=pymysql.cursors.DictCursor
+        )
+        self._cursor = self._conn.cursor()
 
-    def __connect__(self):
-        self.con = pymysql.connect(host=self.host, user=self.user,
-                                   password=self.password, db=self.db,
-                                   cursorclass=pymysql.cursors.DictCursor)
-        self.cur = self.con.cursor()
+    def __enter__(self):
+        return self
 
-    def __disconnect__(self):
-        self.con.commit()
-        self.con.close()
+    def __exit__(self, exc_type, exc_val, exc_tb):
+        self.commit()
+        self.connection.close()
 
-    def fetch(self, sql, params=None):
-        self.__connect__()
-        self.cur.execute(sql, params or ())
-        result = self.cur.fetchall()
-        self.__disconnect__()
-        return result
+    @property
+    def connection(self):
+        return self._conn
+
+    @property
+    def cursor(self):
+        return self._cursor
+
+    def commit(self):
+        self.connection.commit()
 
     def execute(self, sql, params=None):
-        self.__connect__()
-        self.cur.execute(sql, params or ())
-        self.__disconnect__()
+        self.cursor.execute(sql, params or ())
+
+    def fetchall(self):
+        return self.cursor.fetchall()
+
+    def fetchone(self):
+        return self.cursor.fetchone()
+
+    def query(self, sql, params=None):
+        self.cursor.execute(sql, params or ())
+        return self.fetchall()
 
 
 def add_data_to_db(students_path, rooms_path,
@@ -99,21 +113,22 @@ def add_data_to_db(students_path, rooms_path,
                    db_user, db_password,
                    db_name):
 
-    db = Database(db_host, db_user, db_password, db_name)
-    rooms = ReadJson(rooms_path).read()
-    for room in rooms:
-        db.execute(
-            'INSERT INTO Rooms (id,name) VALUES (%s,%s)',
-            (room['id'], room['name'])
-        )
+    with DatabaseConnector(db_host, db_user, db_password, db_name) as db:
+        rooms = JsonReader(rooms_path).read()
+        for room in rooms:
+            db.execute(
+                'INSERT INTO Rooms (id,name) VALUES (%s,%s)',
+                (room['id'], room['name'])
+            )
 
-    students = ReadJson(students_path).read()
-    for student in students:
-        db.execute(
-            'INSERT INTO Students (id,name,room,birthday,sex) VALUES (%s,%s,%s,%s,%s)',
-            (student['id'], student['name'], student['room'],
-                student['birthday'], student['sex'])
-        )
+    with DatabaseConnector(db_host, db_user, db_password, db_name) as db:
+        students = JsonReader(students_path).read()
+        for student in students:
+            db.execute(
+                'INSERT INTO Students (id,name,room,birthday,sex) VALUES (%s,%s,%s,%s,%s)',
+                (student['id'], student['name'], student['room'],
+                    student['birthday'], student['sex'])
+            )
 
 
 def queries_to_db(db_host,
@@ -121,17 +136,23 @@ def queries_to_db(db_host,
                   db_name):
     result = []
     queries = [
-        "SELECT Rooms.name AS ROOM_NAME, COUNT(room) AS NUM_OF_STUDENTS FROM Students INNER JOIN Rooms ON Rooms.id = Students.room GROUP BY room",
-        "SELECT Rooms.name AS ROOM, AVG((TO_DAYS(NOW())-TO_DAYS(birthday))/365) AS AVG_AGE FROM Students INNER JOIN Rooms ON Rooms.id = Students.room GROUP BY Rooms.name ORDER BY AVG_AGE LIMIT 5",
-        "SELECT Rooms.name AS ROOM, ((MAX((TO_DAYS(NOW())-TO_DAYS(birthday)))- MIN((TO_DAYS(NOW())-TO_DAYS(birthday))))/365) AS DIFF FROM Students INNER JOIN Rooms ON Rooms.id = Students.room GROUP BY Rooms.name ORDER BY DIFF DESC LIMIT 5",
-        "SELECT DISTINCT Rooms.name AS ROOM_NAME FROM Rooms INNER JOIN Students ON Students.room = Rooms.id WHERE sex = 'M' AND Rooms.name IN (SELECT Rooms.name AS ROOM_NAME FROM Rooms INNER JOIN Students ON Students.room = Rooms.id WHERE sex = 'F')",
+        """SELECT Rooms.name AS ROOM_NAME, COUNT(room) AS NUM_OF_STUDENTS FROM
+        Students INNER JOIN Rooms ON Rooms.id = Students.room GROUP BY room""",
+        """SELECT Rooms.name AS ROOM, AVG((TO_DAYS(NOW())-TO_DAYS(birthday))/365)
+        AS AVG_AGE FROM Students INNER JOIN Rooms ON Rooms.id = Students.room
+        GROUP BY Rooms.name ORDER BY AVG_AGE LIMIT 5""",
+        """SELECT Rooms.name AS ROOM,
+        ((MAX((TO_DAYS(NOW())-TO_DAYS(birthday)))- MIN((TO_DAYS(NOW())-TO_DAYS(birthday))))/365)
+        AS DIFF FROM Students INNER JOIN Rooms ON Rooms.id = Students.room GROUP
+        BY Rooms.name ORDER BY DIFF DESC LIMIT 5""",
+        """SELECT Rooms.name FROM Rooms INNER JOIN Students ON Students.room = Rooms.id
+        GROUP BY Rooms.id HAVING COUNT(DISTINCT Students.sex)>=2""",
     ]
 
-    db = Database(db_host, db_user, db_password, db_name)
-
-    for query in queries:
-        res_sql = db.fetch(query)
-        result.append(res_sql)
+    with DatabaseConnector(db_host, db_user, db_password, db_name) as db:
+        for query in queries:
+            res_sql = db.query(query)
+            result.append(res_sql)
 
     return result
 
@@ -152,12 +173,10 @@ def main(students_path, rooms_path,
 
     if output_format == 'json':
         for index, value in enumerate(result):
-            SaveToJson(value, 'query{}.json'.format(index)).save()
+            JsonSaver(value, 'query{}.json'.format(index)).save()
     elif output_format == 'xml':
         for index, value in enumerate(result):
-            xml = dicttoxml(value).decode('utf-8')
-            dom = parseString(xml)
-            SaveToXml(dom, 'query{}.xml'.format(index)).save()
+            XmlSaver(value, 'query{}.xml'.format(index)).save()
     else:
         print('Check output format')
 

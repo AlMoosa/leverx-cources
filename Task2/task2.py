@@ -27,9 +27,9 @@ def main():
     ]
 
     for version_1, version_2 in to_test:
-        assert Version(version_1) < Version(version_2), 'le failed'
-        assert Version(version_2) > Version(version_1), 'ge failed'
-        assert Version(version_2) != Version(version_1), 'neq failed'
+        print(Version(version_1) < Version(version_2))
+        print(Version(version_1) > Version(version_2))
+        print(Version(version_2) != Version(version_1))
 
 
 if __name__ == "__main__":

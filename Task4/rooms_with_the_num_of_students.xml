@@ -1,0 +1,3999 @@
+<?xml version="1.0" ?>
+<root>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #0</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #1</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #2</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #3</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #4</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #5</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #6</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">4</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #7</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #8</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #9</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #10</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #11</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #12</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">16</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #13</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #14</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #15</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #16</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #17</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #18</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #19</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #20</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">15</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #21</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">15</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #22</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #23</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">16</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #24</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #25</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">4</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #26</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #27</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #28</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #29</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #30</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #31</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #32</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #33</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #34</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #35</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #36</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #37</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #38</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #39</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #40</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #41</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">15</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #42</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #43</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #44</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">16</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #45</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #46</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #47</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #48</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #49</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">3</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #50</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #51</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">15</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #52</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">15</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #53</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #54</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #55</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #56</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #57</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #58</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #59</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #60</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #61</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #62</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #63</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #64</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #65</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">16</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #66</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #67</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #68</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #69</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #70</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #71</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #72</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #73</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">20</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #74</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">17</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #75</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #76</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #77</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #78</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #79</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #80</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #81</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #82</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">15</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #83</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #84</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #85</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #86</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #87</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #88</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #89</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #90</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #91</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #92</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #93</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #94</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #95</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #96</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #97</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #98</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #99</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #100</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #101</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #102</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #103</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #104</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #105</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #106</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #107</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #108</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #109</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #110</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #111</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #112</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #113</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #114</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #115</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #116</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #117</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #118</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #119</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #120</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #121</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #122</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #123</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #124</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #125</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #126</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #127</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #128</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #129</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #130</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #131</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #132</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #133</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">16</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #134</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">4</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #135</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #136</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">16</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #137</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #138</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #139</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #140</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #141</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #142</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #143</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #144</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #145</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">16</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #146</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #147</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #148</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #149</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #150</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #151</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #152</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #153</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #154</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">3</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #155</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">18</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #156</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #157</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">4</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #158</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #159</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #160</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #161</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">15</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #162</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #163</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #164</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #165</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #166</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #167</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #168</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #169</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #170</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #171</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #172</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #173</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #174</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #175</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #176</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #177</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #178</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">4</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #179</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #180</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #181</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #182</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #183</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #184</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #185</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #186</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #187</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #188</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #189</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #190</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #191</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #192</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #193</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #194</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #195</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #196</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #197</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">19</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #198</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #199</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #200</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">15</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #201</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #202</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #203</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #204</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #205</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">16</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #206</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #207</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #208</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #209</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">16</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #210</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #211</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #212</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #213</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #214</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #215</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #216</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #217</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #218</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #219</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #220</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #221</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #222</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #223</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #224</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #225</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #226</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #227</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #228</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #229</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #230</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #231</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #232</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #233</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #234</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #235</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #236</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #237</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">16</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #238</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #239</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #240</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #241</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #242</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #243</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #244</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #245</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #246</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #247</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #248</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #249</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #250</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #251</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #252</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #253</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #254</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #255</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #256</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #257</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #258</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #259</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #260</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #261</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #262</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #263</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #264</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #265</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #266</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #267</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #268</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">15</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #269</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #270</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #271</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #272</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #273</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #274</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #275</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #276</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #277</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #278</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #279</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #280</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #281</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #282</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #283</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #284</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #285</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #286</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #287</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #288</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #289</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">15</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #290</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #291</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #292</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #293</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #294</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #295</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #296</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #297</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #298</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #299</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #300</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #301</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #302</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #303</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #304</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #305</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #306</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #307</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #308</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #309</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #310</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #311</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #312</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #313</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #314</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #315</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #316</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #317</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #318</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">15</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #319</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #320</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #321</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #322</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #323</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #324</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #325</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #326</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">18</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #327</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #328</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">16</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #329</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #330</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #331</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #332</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #333</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #334</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #335</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #336</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #337</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #338</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #339</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #340</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #341</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #342</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #343</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #344</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #345</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">4</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #346</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #347</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #348</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #349</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #350</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #351</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #352</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #353</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">4</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #354</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #355</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">16</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #356</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">16</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #357</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">16</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #358</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #359</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">18</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #360</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #361</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #362</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #363</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #364</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #365</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #366</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">15</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #367</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #368</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #369</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #370</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #371</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #372</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #373</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">16</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #374</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #375</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #376</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #377</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #378</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #379</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #380</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #381</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #382</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #383</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #384</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #385</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #386</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #387</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #388</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #389</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #390</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">15</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #391</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #392</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">18</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #393</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #394</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #395</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #396</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #397</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #398</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #399</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #400</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #401</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #402</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #403</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #404</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #405</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #406</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #407</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #408</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #409</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #410</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #411</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #412</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #413</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #414</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #415</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #416</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #417</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #418</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">15</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #419</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">3</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #420</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #421</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #422</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">2</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #423</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">16</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #424</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #425</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #426</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #427</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #428</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #429</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #430</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #431</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #432</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">15</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #433</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #434</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #435</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #436</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #437</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">16</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #438</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #439</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #440</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #441</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #442</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">15</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #443</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">4</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #444</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #445</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #446</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #447</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #448</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">18</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #449</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #450</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #451</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">15</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #452</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #453</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #454</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #455</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #456</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #457</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #458</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #459</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #460</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #461</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #462</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #463</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #464</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">16</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #465</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #466</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #467</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #468</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #469</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">15</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #470</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #471</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #472</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #473</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #474</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #475</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #476</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #477</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #478</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #479</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #480</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #481</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #483</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #484</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">4</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #485</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #486</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">17</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #487</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">4</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #488</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">15</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #489</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">17</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #490</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #491</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">17</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #492</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #493</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #494</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #495</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #496</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #497</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">17</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #498</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">4</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #499</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #500</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #501</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #502</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #503</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #504</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #505</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">15</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #506</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">18</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #507</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #508</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #509</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #510</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #511</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #512</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #513</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #514</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">15</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #515</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #516</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #517</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #518</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #519</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #520</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #521</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">16</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #522</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #523</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #524</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #525</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #526</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #527</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #528</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #529</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #530</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #531</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #532</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #533</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #534</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #535</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">15</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #536</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #537</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #538</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #539</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #540</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #541</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">15</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #542</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #543</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #544</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #545</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #546</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #547</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #548</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #549</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #550</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">15</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #551</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #552</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #553</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #554</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #555</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #556</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">17</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #557</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #558</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #559</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #560</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #561</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #562</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #563</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">16</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #564</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #565</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #566</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #567</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #568</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #569</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #570</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #571</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #572</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #573</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">17</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #574</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #575</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #576</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #577</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #578</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #579</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #580</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #581</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #582</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #583</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #584</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #585</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #586</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #587</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #588</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #589</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #590</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #591</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">18</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #592</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #593</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #594</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #595</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #596</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #597</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #598</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #599</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">16</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #600</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #601</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #602</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #603</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #604</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #605</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #606</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #607</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #608</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #609</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #610</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #611</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">4</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #612</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #613</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #614</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #615</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #616</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #617</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #618</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #619</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #620</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #621</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #622</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #623</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #624</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #625</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #626</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #627</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">15</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #628</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #629</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #630</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #631</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">16</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #632</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #633</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #634</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #635</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #636</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #637</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #638</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #639</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #640</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #641</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #642</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #643</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #644</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #645</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #646</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #647</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #648</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #649</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #650</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #651</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #652</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #653</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #654</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #655</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #656</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #657</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">15</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #658</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #659</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #660</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #661</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">3</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #662</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #663</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #664</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #665</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #666</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #667</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #668</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #669</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #670</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #671</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #672</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #673</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #674</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #675</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #676</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #677</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">3</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #678</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #679</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #680</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #681</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">4</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #682</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #683</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #684</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #685</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #686</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #687</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #688</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #689</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #690</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #691</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #692</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #693</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #694</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #695</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">15</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #696</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #697</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #698</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #699</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">15</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #700</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #701</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #702</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #703</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #704</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #705</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #706</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #707</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #708</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #709</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #710</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">4</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #711</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #712</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #713</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #714</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">16</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #715</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #716</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #717</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #718</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #719</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #720</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #721</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #722</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #723</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #724</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #725</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #726</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #727</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #728</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #729</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #730</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #731</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">19</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #732</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #733</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #734</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #735</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #736</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #737</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #738</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #739</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #740</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #741</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #742</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #743</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #744</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #745</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #746</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #747</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #748</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #749</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #750</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #751</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #752</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #753</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #754</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #755</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #756</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #757</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #758</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #759</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">15</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #760</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #761</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #762</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #763</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #764</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #765</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #766</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">15</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #767</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #768</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #769</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #770</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #771</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #772</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #773</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #774</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #775</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #776</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #777</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #778</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #779</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #780</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #781</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #782</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #783</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #784</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #785</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #786</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #787</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #788</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #789</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #790</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #791</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #792</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #793</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">15</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #794</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #795</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #796</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #797</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #798</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #799</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #800</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #801</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #802</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #803</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #804</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #805</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #806</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #807</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #808</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #809</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #810</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">2</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #811</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #812</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #813</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">20</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #814</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #815</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #816</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #817</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #818</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #819</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #820</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #821</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #822</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #823</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #824</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #825</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #826</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #827</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #828</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #829</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #830</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #831</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #832</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #833</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #834</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #835</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">16</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #836</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #837</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #838</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #839</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #840</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #841</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #842</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #843</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #844</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #845</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #846</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #847</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">16</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #848</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #849</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #850</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #851</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #852</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #853</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #854</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #855</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #856</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #857</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #858</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #859</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #860</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">19</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #861</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #862</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #863</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">15</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #864</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #865</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #866</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #867</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #868</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #869</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #870</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #871</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #872</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #873</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">4</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #874</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #875</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #876</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #877</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #878</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #879</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">15</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #880</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #881</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #882</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #883</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #884</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #885</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #886</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #887</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #888</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #889</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #890</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #891</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #892</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #893</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #894</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">17</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #895</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #896</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #897</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #898</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #899</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #900</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #901</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #902</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #903</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #904</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #905</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">19</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #906</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #907</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #908</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #909</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #910</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #911</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #912</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #913</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">3</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #914</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #915</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #916</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #917</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #918</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #919</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #920</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #921</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #922</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #923</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #924</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #925</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #926</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #927</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #928</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #929</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #930</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">15</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #931</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #932</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #933</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #934</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">4</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #935</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #936</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #937</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #938</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #939</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #940</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #941</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #942</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #943</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #944</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #945</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #946</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #947</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #948</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #949</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #950</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #951</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #952</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #953</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #954</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #955</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #956</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #957</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #958</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #959</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #960</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #961</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">17</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #962</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #963</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #964</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #965</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">15</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #966</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #967</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">11</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #968</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">17</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #969</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">16</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #970</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #971</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #972</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">4</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #973</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #974</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #975</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #976</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #977</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #978</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #979</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #980</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #981</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #982</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #983</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #984</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #985</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">3</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #986</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #987</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">7</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #988</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #989</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #990</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">5</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #991</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #992</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #993</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">10</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #994</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">6</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #995</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">13</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #996</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">8</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #997</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">9</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #998</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">14</NUM_OF_STUDENTS>
+	</item>
+	<item type="dict">
+		<ROOM_NAME type="str">Room #999</ROOM_NAME>
+		<NUM_OF_STUDENTS type="int">12</NUM_OF_STUDENTS>
+	</item>
+</root>

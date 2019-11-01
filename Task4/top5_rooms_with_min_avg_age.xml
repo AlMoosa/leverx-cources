@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<root>
+	<item type="dict">
+		<ROOM type="str">Room #661</ROOM>
+		<AVG_AGE type="number">6.66030000</AVG_AGE>
+	</item>
+	<item type="dict">
+		<ROOM type="str">Room #913</ROOM>
+		<AVG_AGE type="number">14.62463333</AVG_AGE>
+	</item>
+	<item type="dict">
+		<ROOM type="str">Room #111</ROOM>
+		<AVG_AGE type="number">26.58521000</AVG_AGE>
+	</item>
+	<item type="dict">
+		<ROOM type="str">Room #957</ROOM>
+		<AVG_AGE type="number">27.99268889</AVG_AGE>
+	</item>
+	<item type="dict">
+		<ROOM type="str">Room #773</ROOM>
+		<AVG_AGE type="number">30.03562727</AVG_AGE>
+	</item>
+</root>

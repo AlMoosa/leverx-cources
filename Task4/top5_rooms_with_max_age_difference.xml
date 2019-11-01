@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<root>
+	<item type="dict">
+		<ROOM type="str">Room #712</ROOM>
+		<DIFF type="number">115.5918</DIFF>
+	</item>
+	<item type="dict">
+		<ROOM type="str">Room #875</ROOM>
+		<DIFF type="number">115.4274</DIFF>
+	</item>
+	<item type="dict">
+		<ROOM type="str">Room #381</ROOM>
+		<DIFF type="number">115.2493</DIFF>
+	</item>
+	<item type="dict">
+		<ROOM type="str">Room #213</ROOM>
+		<DIFF type="number">115.1479</DIFF>
+	</item>
+	<item type="dict">
+		<ROOM type="str">Room #83</ROOM>
+		<DIFF type="number">115.0877</DIFF>
+	</item>
+</root>

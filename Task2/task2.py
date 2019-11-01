@@ -27,9 +27,13 @@ def main():
     ]
 
     for version_1, version_2 in to_test:
+        print(f'{version_1} < {version_2}')
         print(Version(version_1) < Version(version_2))
+        print(f'{version_1} > {version_2}')
         print(Version(version_1) > Version(version_2))
+        print(f'{version_1} != {version_2}')
         print(Version(version_2) != Version(version_1))
+        print('\t')
 
 
 if __name__ == "__main__":

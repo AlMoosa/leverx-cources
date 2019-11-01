@@ -15,9 +15,19 @@ class CustomUserSerializer(serializers.ModelSerializer):
         fields = ('id', 'email')
 
 
+class CourseSerializer(serializers.ModelSerializer):
+    # students = CustomUserSerializer(many=True)
+    # teachers = CustomUserSerializer(many=True)
+
+    class Meta:
+        model = Course
+        fields = '__all__'
+        read_only_fields = ('teachers',)
+
+
 class CourseDetailSerializer(serializers.ModelSerializer):
-    students = CustomUserSerializer(many=True)
-    teachers = CustomUserSerializer(many=True)
+    # students = CustomUserSerializer(many=True)
+    # teachers = CustomUserSerializer(many=True)
 
     class Meta:
         model = Course
@@ -43,6 +53,20 @@ class HometaskDetailSerializer(serializers.ModelSerializer):
         fields = '__all__'
 
 
+class HometaskStudentDetailSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Hometask
+        fields = '__all__'
+        read_only_fields = ('mark', 'student',)
+
+
+class HometaskTeacherDetailSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Hometask
+        fields = '__all__'
+        read_only_fields = ('id', 'solution_file', 'student', 'task')
+
+
 class MarkDetailSerializer(serializers.ModelSerializer):
     class Meta:
         model = Hometask
@@ -50,6 +74,9 @@ class MarkDetailSerializer(serializers.ModelSerializer):
 
 
 class CommentDetailSerializer(serializers.ModelSerializer):
+    # user = CustomUserSerializer()
+
     class Meta:
         model = Comment
         fields = '__all__'
+        read_only_fields = ('user',)

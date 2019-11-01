@@ -1,4 +1,5 @@
 from rest_framework import permissions
+from .models import Course, Lecture
 
 
 class IsOwnerOrReadOnly(permissions.BasePermission):
@@ -14,6 +15,14 @@ class IsTeacherOrAdminOrReadOnly(permissions.BasePermission):
         if request.method in permissions.SAFE_METHODS:
             return True
         return request.user and request.user.is_teacher or request.user.is_superuser
+
+
+class IsStudentOrAdminOrReadOnly(permissions.BasePermission):
+
+    def has_permission(self, request, view):
+        if request.method in permissions.SAFE_METHODS:
+            return True
+        return request.user and request.user.is_student or request.user.is_superuser
 
 
 class IsNotYourCourse(permissions.BasePermission):
